@@ -1,0 +1,8 @@
+{
+  "name": "Remix: نجوم",
+  "description": "مهام أطفالك · مكافآت حقيقية في بيئة تربوية تفاعلية تشجع الصلوات وحفظ القرآن والمهام اليومية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
